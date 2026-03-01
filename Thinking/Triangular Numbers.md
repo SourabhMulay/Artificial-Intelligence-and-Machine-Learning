@@ -33,6 +33,7 @@ And They called Triangular Numbers. Becuase you Tried to add them and they form 
 
 <hr>
 
+### SUM OF N ODD NUMBERS
 And what about Numbers with other shapes. Like Square Numbers  `(1, 4, 9, 16 ...)` and these are also `sum of odd Numbers`.
 
 Like:
@@ -84,11 +85,10 @@ So 2 times SUM can be equated to this...
 So SUM of first N Odd Numbers is `SQUARE OF N`.
 
 
-<hr>
-
 SO we have 1 white coin first then 3 black which are arranged..then 5 white and then 7 black which are arranged in fashion to make a Square.
 
 <img width="1186" height="536" alt="image" src="https://github.com/user-attachments/assets/249729c2-d2e5-4495-857b-9cf40bdffdd8" />
 
 
 
+<hr>
