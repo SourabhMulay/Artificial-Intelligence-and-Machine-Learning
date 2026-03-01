@@ -27,3 +27,6 @@ and It shown as:
 
 `SUM OF (first N Natural Numbers)  = N * (N+1) / 2`
 
+And They called Triangular Numbers. Becuase you Tried to add them and they form a Triangle...
+
+<img width="1000" height="581" alt="image" src="https://github.com/user-attachments/assets/989d1e60-de86-4d89-994a-42b1711dc217" />
