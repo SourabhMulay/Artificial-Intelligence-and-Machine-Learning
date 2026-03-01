@@ -30,3 +30,65 @@ and It shown as:
 And They called Triangular Numbers. Becuase you Tried to add them and they form a Triangle...
 
 <img width="1000" height="581" alt="image" src="https://github.com/user-attachments/assets/989d1e60-de86-4d89-994a-42b1711dc217" />
+
+<hr>
+
+And what about Numbers with other shapes. Like Square Numbers  `(1, 4, 9, 16 ...)` and these are also `sum of odd Numbers`.
+
+Like:
+
+`1 = 1`
+
+`1 + 3 = 4`
+
+`1 + 3 + 5 = 9`
+
+`1 + 3 + 5 + 7 = 16`
+
+....Continue
+
+and we'll do the same what gauss did...
+
+Lets try:
+
+`1 + 3 + 5 + 7 + 9`
+
+and Backward:
+
+`9 + 7 + 5 + 3 + 1`
+
+and if We add ups the columns! we'll get: (9+1), (7+3), (5+5), (7+3), (9+1) so each time we get 10. 
+
+So, `2 * SUM = 10 * 5`  (Sum of first 5 odd Numbers).
+
+So in term of N what is Nth odd number??  It will be `2 * N - 1`. So in general it can be Written as:
+
+`1 + 3 + 5 + ... 2n-1`
+
+and reversed:
+
+`2n-1 + 2n-3 + 2n-5 .... +1`
+
+So if i add them up...(2n-1+1) (2n+3-3) .....results 2n. 
+
+
+So here i gets N times 2*N.
+
+So 2 times SUM can be equated to this...
+
+`2 * SUM = N * (2*N)`
+
+`SUM = N*N `
+
+
+So SUM of first N Odd Numbers is `SQUARE OF N`.
+
+
+<hr>
+
+SO we have 1 white coin first then 3 black which are arranged..then 5 white and then 7 black which are arranged in fashion to make a Square.
+
+<img width="1186" height="536" alt="image" src="https://github.com/user-attachments/assets/249729c2-d2e5-4495-857b-9cf40bdffdd8" />
+
+
+
