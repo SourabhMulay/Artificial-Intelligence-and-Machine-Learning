@@ -49,4 +49,34 @@ Now let's come to **Peano's Axioms for Natural Numbers ( N )** (Rules at hilbert
 
 So these are rules to check if Hilberts Hotel is FULL.
 
+The 5th axiom is known as `Principle of Mathematical Induction`.  (Proof By induction).
+
+lets take an example ... Theorem:  (SUMMATION from i=1 to N  of i is = ( n * (n+1) ) / 2) 
+
+<img width="1325" height="432" alt="image" src="https://github.com/user-attachments/assets/33cd942f-959a-480a-beef-c7f67a4a4fcf" />
+
+Proof:  So I can say that, P(n) = 1 + 2 + 3 ... n = n * n+1 / 2
+
+So for P(1) = 1 * (1+1) / 2 = 1.
+
+P(1) is also called Base case. and then we can have induction steps.
+
+P(n) is true: 
+
+`1 + 2 + 3 + ... n = (n * (n+1)) / 2`
+
+then ...
+
+`(1 + 2 + 3  ... + n) + (n+1) = n * (n+1) /2 + n+1 = (n^2 + n + 2n + 2) / 2`
+
+which is equals to `(n^2 + 3n + 2) / 2` and if again factorised `(n+1) (n+2) / 2` So we got P(n+1).
+
+`P(n+1) = (n+1) (n+2) / 2`.
+
+So to prove is P(n) is true for each `n E N`. AND S is those n For which P(n) is true. 
+
+Base case tells us that P(1) is true and 1 is element of SET S. and in induction steps we say if P(n) is true then P(n+1) is true. so indirectly it's same saying `n E S` then `n+1 E S`.
+
+
+
 
