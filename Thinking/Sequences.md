@@ -86,4 +86,7 @@ Another Application of Peano's 5th axiom is ""RECURSION"".
 
 So if an = Sequence of Natural Numbers. then a1 = 1, a2 = 3, a3 = 6 ... then it can be shown in term of recursion.
 
-So a1 = 1 (considering base case)  then `an+1 = an + (n+1)` likely n+1th term can be derived
+So a1 = 1 (considering base case)  then `an+1 = an + (n+1)` likely n+1th term can be derived by solving recursively for nth term. 
+
+
+
