@@ -27,3 +27,17 @@ Isn't it the sequence of PRIMES.
 
 ## Peano's axioms for the natural numbers
 
+So we know the Natural Numbers ... (1,2,3,4,5 ....)
+
+and Some axioms are given my peano's. So remember a Hilbert Hotel. So Hotel has very special Room called ROOM NO. 1 , each guest comes will be stay in ROOM NO. 1. and Every room n there is next room n+1. So every guest comes those guest moves to room no 1 and every other moved to next room so n+1th room exist. 
+
+So Rule for checking if hotel is full is, check if ROOM NO 1 is occupied. and another is whenever the ROOM NO N is occupied then ROOM No N+1 is Occupied. If these two conditions are statisfied then I can say the hotel is full.
+
+Now if we have Integer Hotel we have rooms goin from ...-ve  0  +ve like (... -2, -1, 0, 1, 2 ...) and this hilbert hotel is not same as the Intger Hotel and the rules which we defined for hilberts hotel is not applied to the Integer's Hotel. because if all the +ve room no's are occupied then there are negatives left so if n+1th is also occupied then also hotel is not full in case of Integer's Hotel.
+
+We'll use the notations of SET to define the axioms. A set is well defined collection of Objects. So given an object X and Set S. So we can make a decision wether the x is part of Set S or not. So if `x E S` mean x is element of S. and negation will tell us that x is not part of S. 
+
+`C` notation tells us that Something is SUBSET of Something. So If I say `T C S` then i can say that if x is part of T set then x is also part og S. 
+
+Now let's come to **Peano's Axioms for Natural Numbers ( N )**
+
