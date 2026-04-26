@@ -44,4 +44,9 @@ Now let's come to **Peano's Axioms for Natural Numbers ( N )** (Rules at hilbert
 1. `1 E N` ( 1 is part of Natural Numbers Set).
 2. For every element `n E N` there is a successor denoted as `n+ E N`.
 3. If `m, n E N` and m+ = n+ then m = n.
-4. There is no number `n E N` such that the n+ (successor) is 1. 
+4. There is no number `n E N` such that the n+ (successor) is 1.
+5. Suppose `S C N` (S is subset of Natural Number's Set) such that `1 E S` and if `n E S` then `n+ E S` then `S = N`. (S and N are sets).
+
+So these are rules to check if Hilberts Hotel is FULL.
+
+
