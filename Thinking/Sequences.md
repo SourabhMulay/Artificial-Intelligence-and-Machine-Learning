@@ -51,6 +51,8 @@ So these are rules to check if Hilberts Hotel is FULL.
 
 The 5th axiom is known as `Principle of Mathematical Induction`.  (Proof By induction).
 
+### Principle of Mathematical Induction
+
 lets take an example ... Theorem:  (SUMMATION from i=1 to N  of i is = ( n * (n+1) ) / 2) 
 
 <img width="1325" height="432" alt="image" src="https://github.com/user-attachments/assets/33cd942f-959a-480a-beef-c7f67a4a4fcf" />
@@ -78,5 +80,10 @@ So to prove is P(n) is true for each `n E N`. AND S is those n For which P(n) is
 Base case tells us that P(1) is true and 1 is element of SET S. and in induction steps we say if P(n) is true then P(n+1) is true. so indirectly it's same saying `n E S` then `n+1 E S`.
 
 
+Another Application of Peano's 5th axiom is ""RECURSION"". 
 
+### Recursion
 
+So if an = Sequence of Natural Numbers. then a1 = 1, a2 = 3, a3 = 6 ... then it can be shown in term of recursion.
+
+So a1 = 1 (considering base case)  then `an+1 = an + (n+1)` likely n+1th term can be derived
