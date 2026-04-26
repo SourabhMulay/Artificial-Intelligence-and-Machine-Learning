@@ -92,3 +92,9 @@ SO we have 1 white coin first then 3 black which are arranged..then 5 white and 
 
 
 <hr>
+
+
+We can also show all these in form of SUMMATION. 
+
+<img width="1097" height="652" alt="image" src="https://github.com/user-attachments/assets/c63a80b2-f373-4344-abc1-fd9d7a748537" />
+
