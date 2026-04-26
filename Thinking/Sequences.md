@@ -33,11 +33,15 @@ and Some axioms are given my peano's. So remember a Hilbert Hotel. So Hotel has 
 
 So Rule for checking if hotel is full is, check if ROOM NO 1 is occupied. and another is whenever the ROOM NO N is occupied then ROOM No N+1 is Occupied. If these two conditions are statisfied then I can say the hotel is full.
 
-Now if we have Integer Hotel we have rooms goin from ...-ve  0  +ve like (... -2, -1, 0, 1, 2 ...) and this hilbert hotel is not same as the Intger Hotel and the rules which we defined for hilberts hotel is not applied to the Integer's Hotel. because if all the +ve room no's are occupied then there are negatives left so if n+1th is also occupied then also hotel is not full in case of Integer's Hotel.
+Now if we have Integer Hotel we have rooms goin from ...-ve  0  +ve like (... -2, -1, 0, 1, 2 ...) and this hilbert hotel is not same as the Intger Hotel and the rules which we defined for hilberts  hotel is not applied to the Integer's Hotel. because if all the +ve room no's are occupied then there are negatives left so if n+1th is also occupied then also hotel is not full in case of Integer's Hotel.
 
 We'll use the notations of SET to define the axioms. A set is well defined collection of Objects. So given an object X and Set S. So we can make a decision wether the x is part of Set S or not. So if `x E S` mean x is element of S. and negation will tell us that x is not part of S. 
 
 `C` notation tells us that Something is SUBSET of Something. So If I say `T C S` then i can say that if x is part of T set then x is also part og S. 
 
-Now let's come to **Peano's Axioms for Natural Numbers ( N )**
+Now let's come to **Peano's Axioms for Natural Numbers ( N )** (Rules at hilbert Hotel).
 
+1. `1 E N` ( 1 is part of Natural Numbers Set).
+2. For every element `n E N` there is a successor denoted as `n+ E N`.
+3. If `m, n E N` and m+ = n+ then m = n.
+4. There is no number `n E N` such that the n+ (successor) is 1. 
