@@ -15,3 +15,12 @@ Rules:
 
 So if you apply these rules together then you'll get all natural numbers. 
 
+Or there might be a Rule:
+
+1. First term is 2
+2. Each subsequent term is smallest number which is bigger than all previous terms but it's not multiple of any of them.
+
+`2, 3, 5, 7, 11 .... `
+
+Isn't it the sequence of PRIMES.
+
