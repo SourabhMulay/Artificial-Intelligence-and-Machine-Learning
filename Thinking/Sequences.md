@@ -20,7 +20,10 @@ Or there might be a Rule:
 1. First term is 2
 2. Each subsequent term is smallest number which is bigger than all previous terms but it's not multiple of any of them.
 
-`2, 3, 5, 7, 11 .... `
+`2, 3, 5, 7, 11, 13, 17, 19 .... `
 
 Isn't it the sequence of PRIMES.
+
+
+## Peano's axioms for the natural numbers
 
